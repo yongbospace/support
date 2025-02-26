@@ -26,7 +26,7 @@ Significant changes will be notified to users via in-app announcements.
 
 ## 6. Contact and Support
 For inquiries and support, please contact us via email.  
-- Email: support@swingcalc.com
+- Email: yongbospace@gmail.com
 
 ## 7. Policy Changes
 This policy may be updated as needed, and any changes will be notified through in-app announcements.
